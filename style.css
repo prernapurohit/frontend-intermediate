@@ -1,0 +1,91 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+.img-logo{
+  margin-left: 30px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    font-weight: 300;
+  }
+  .text{
+    margin-left: 30px;
+  }
+  h1{
+    margin-left: 30px;
+  }
+  h2{
+    margin-left: 30px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 50px;
+
+  }
+  P{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 30px;
+
+  }
+  a{
+    background-color: hsl(243, 87%, 12%);
+
+    margin-left: 30px;
+    color:green;
+  }
+  .heading{
+    margin-top: 150px;
+  }
+  .illustration-img{
+    max-width: 80%;
+    margin-left: 80px;
+
+  }
+  .fylo-div{
+    border:2px solid black;
+    opacity:0.5;
+    height:20%;
+    width:270px;
+    margin-top: 5%;
+    margin-bottom:10%;
+    padding:2%;
+    font-size:0.5rem;
+    margin-left: 30px;
+  }
+  .button{
+    background-color: hsl(224, 93%, 58%)
+
+  }
+  .img2{
+
+    margin-top: 180px;
+    max-width: 80%;
+    margin-left: 80px;
+
+}
+.logo1{
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom:30px;
+}
+.s-div4{
+  margin-top:100px;
+}
+
+.s-div5{
+  margin-top: 100px;
+}
+.div2{
+  background-color: hsl(238, 22%, 44%);
+}
+.div4{
+  background-color: hsl(238,22%,44%);
+}
+.footer{
+  background-color: hsl(243, 87%, 12%);
+  color:#fff;
+
+}
